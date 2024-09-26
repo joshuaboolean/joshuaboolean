@@ -1,6 +1,7 @@
 ## Hi, I'm Joshua!
 
 I'm currently a CS student at UIC.
+
 I love all sorts of technology and enjoy playing video games with my friends.
 
 <!--
